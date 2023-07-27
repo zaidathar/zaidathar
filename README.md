@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Zaid Athar</h1>
 <h3>A passionate software engineer with over 2 years of hands-on experience in Java technology. My journey in the world of programming has been fueled by a profound love for crafting efficient and innovative solutions.</h3>
-<h3>
-  💼 Professional Expertise:
-  I specialize in Java, with a strong focus on building robust and scalable applications using Spring Boot, JPA, and Hibernate. I have a keen eye for detail, and my expertise extends to designing efficient databases and optimizing SQL queries.
+<h3> I specialize in Java, with a strong focus on building robust and scalable applications using Spring Boot, JPA, and Hibernate. I have a keen eye for detail, and my expertise extends to designing efficient databases and optimizing SQL queries.
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaidathar&label=Profile%20views&color=0e75b6&style=flat" alt="zaidathar" /> </p>
 
@@ -32,7 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidathar&show_icons=true&locale=en" alt="zaidathar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidathar&" alt="zaidathar" /></p>
-### 🔝 Top Contributed Repo 
+<h3>🔝 Top Contributed Repo </h3> 
 
 ![](https://github-contributor-stats.vercel.app/api?username=zaidathar&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
