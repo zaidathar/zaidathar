@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zaid Athar</h1>
+<h1>Hi 👋, I'm Zaid Athar</h1>
 <h3>A passionate software engineer with over 2 years of hands-on experience in Java technology. My journey in the world of programming has been fueled by a profound love for crafting efficient and innovative solutions.</h3>
 <h3>
   💼 Professional Expertise:
