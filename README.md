@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Zaid Athar</h1>
 <p>
   
-  A passionate software engineer with over **2 years** of hands-on **experience** in **Java** technology. My journey in the world of programming has been fueled by a profound love for crafting efficient and innovative solutions.
+  A passionate software engineer with over **3 years** of hands-on **experience** in **Java** technology. My journey in the world of programming has been fueled by a profound love for crafting efficient and innovative solutions.
 </p>
 <p> 
   
