@@ -27,6 +27,25 @@
 <a href="https://www.leetcode.com/zaidathar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zaidathar" height="30" width="40" /></a>
 <a href="https://hashnode.com/@thezaidathar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@thezaidathar" height="30" width="40" /></a>
 </p>
+<br>
+
+<h3>LeetCode Profile!</h3>
+
+[zaidathar](https://leetcode.com/zaidathar)
+
+[![zaidathar's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zaidathar&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+<h3>Github profile stats</h3>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidathar&show_icons=true&locale=en" alt="zaidathar" /></p>
+
+
+<h4>🔝 Top Contributed Repo </h4> 
+
+![](https://github-contributor-stats.vercel.app/api?username=zaidathar&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidathar&" alt="zaidathar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidathar&show_icons=true&locale=en&layout=compact" alt="zaidathar" width="400" height="400" /></p>
+
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -63,14 +82,4 @@
    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> &nbsp; 
   
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidathar&show_icons=true&locale=en&layout=compact" alt="zaidathar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidathar&show_icons=true&locale=en" alt="zaidathar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidathar&" alt="zaidathar" /></p>
-<h3>🔝 Top Contributed Repo </h3> 
-
-![](https://github-contributor-stats.vercel.app/api?username=zaidathar&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
 
