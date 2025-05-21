@@ -33,7 +33,7 @@
 
 [zaidathar](https://leetcode.com/zaidathar)
 
-[![zaidathar's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zaidathar&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![Zaid's LeetCode Stats](https://leetcard.jacoblin.cool/zaidathar?theme=dark)
 
 <h3>Github profile stats</h3>
 
