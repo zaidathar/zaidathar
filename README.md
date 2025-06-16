@@ -97,12 +97,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=zaidathar&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
     alt="My Github stats"
-    height="200"
+    height="180"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=zaidathar&theme=dark" 
     alt="zaidathar" 
-    height="200"
+    height="180"
   />
 </div>
 
